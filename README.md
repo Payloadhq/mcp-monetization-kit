@@ -1,0 +1,1 @@
+# mcp-monetization-kit
