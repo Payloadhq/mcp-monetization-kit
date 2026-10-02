@@ -16,8 +16,8 @@ This kit is the third option: wrap each tool with a price. Callers without payme
 Non-custodial by design: never holds keys or funds. It verifies payment, then runs your tool.
 
 **Buy** — $69 one-time. Yours forever. No subscriptions, no lock-in.
-[Get the MCP Monetization Kit](https://buy.polar.sh/polar_cl_2xJPNjtJc974Kzxj3222w4QGSu3aaU8tmHKsg2EmsKf)
-Also available: [x402 + MCP Monetization Kit bundle ($119)](https://buy.polar.sh/polar_cl_1bjr7pzCRFuSUUk3ZZ2UgzkLzcdGlPtb1b5AA3Gb24s)
+[Get the MCP Monetization Kit](https://payloadtools.gumroad.com/l/mcp-monetization-kit)
+Also available: [x402 + MCP Monetization Kit bundle ($119)](https://payloadtools.gumroad.com/l/x402-mcp-bundle)
 
 **License** — Single-seat commercial license, perpetual. Full text ships inside the package (LICENSE.txt). Not open source.
 
