@@ -1,5 +1,7 @@
 # MCP Monetization Kit
-*Charge per tool call on your MCP server. A commercial product by Payload.*
+*Charge per tool call on your MCP server. A commercial product by Payload (v1.0.1).*
+> **Payload** — small, sharp tools for developers. Developer portal: https://payloadhq.github.io/
+
 
 30,000+ MCP servers are indexed across directories and marketplaces — and none of those marketplaces pay their creators. If you run a useful MCP server, your only options are donations or building billing infrastructure from scratch.
 
@@ -24,3 +26,10 @@ Also available: [x402 + MCP Monetization Kit bundle ($119)](https://payloadtools
 **Support** — kylers.partners@gmail.com
 
 Sold by Payload. Small software that earns its keep.
+
+---
+
+**Payload** — small, sharp tools for developers.
+Developer portal: https://payloadhq.github.io/ ·
+All products: https://payloadtools.gumroad.com/ ·
+Contact: kylers.partners@gmail.com
