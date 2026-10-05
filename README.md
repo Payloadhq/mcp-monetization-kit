@@ -21,6 +21,10 @@ Non-custodial by design: never holds keys or funds. It verifies payment, then ru
 [Get the MCP Monetization Kit](https://payloadtools.gumroad.com/l/mcp-monetization-kit)
 Also available: [x402 + MCP Monetization Kit bundle ($119)](https://payloadtools.gumroad.com/l/x402-mcp-bundle)
 
+Also on [Whop](https://whop.com/payload-f126/products/mcp-monetization-kit-charge-per-tool-call-on-your-mcp-server/)
+
+**What happens after you get paid?** [RevRule by Payload](https://payloadtools.gumroad.com/l/revrule-by-payload) programs who earns what when your MCP server makes money.
+
 **License** — Single-seat commercial license, perpetual. Full text ships inside the package (LICENSE.txt). Not open source.
 
 **Support** — kylers.partners@gmail.com
