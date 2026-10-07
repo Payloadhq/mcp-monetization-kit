@@ -1,3 +1,7 @@
+> **Payload** — Developer infrastructure for x402, agent payments, and programmable revenue.
+> PAYLOAD → VEYLINE (flagship) → CALLX402 (action layer) → REVRULE (separate) → developer products → free utilities.
+> This repo: **MCP Monetization Kit by Payload — per-tool-call metering for MCP servers.**
+
 # MCP Monetization Kit
 
 *Charge per tool call on your MCP server. A commercial product by Payload.*
