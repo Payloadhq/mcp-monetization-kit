@@ -70,3 +70,9 @@ Also available: [x402 + MCP Monetization Engine bundle ($119)](https://payloadto
 Developer portal: https://payloadhq.github.io/ ·
 All products: https://payloadtools.gumroad.com/ ·
 Contact: kylers.partners@gmail.com
+
+---
+
+**More from Payload** · [payloadhq.github.io](https://payloadhq.github.io/) · [all Payload repos](https://github.com/Payloadhq)
+
+Related: [mcp-monetization-demo](https://github.com/Payloadhq/mcp-monetization-demo) · [payload-sample-mcp-server](https://github.com/Payloadhq/payload-sample-mcp-server) · [mcp-readiness-check](https://github.com/Payloadhq/mcp-readiness-check)
