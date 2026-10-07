@@ -4,7 +4,7 @@
 
 > **This repo is the product page.** The paid package ships to you when you buy; it is not open source. Buy links are below.
 
-30,000+ MCP servers are indexed across directories and marketplaces — and none of those marketplaces pay their creators. If you run a useful MCP server, your only options are donations or building billing infrastructure from scratch.
+Thousands of MCP servers are indexed across directories and marketplaces — and none of those marketplaces pay their creators. If you run a useful MCP server, your only options are donations or building billing infrastructure from scratch.
 
 This kit is the third option: wrap each tool with a price. Callers without payment get machine-readable payment requirements; callers who pay get results. Free tools stay free, and you can grant free quotas (e.g. 3 free calls, then $0.025 each).
 
@@ -23,7 +23,7 @@ The paid package ($69, one-time) includes:
 - **Append-only usage ledger** — every paid call, recorded
 - **Adapter for the official @modelcontextprotocol/sdk Server** (stdio/SSE transports)
 - **Two verifiers** — HMAC dev verifier for testing, facilitator verifier for production
-- **8 automated tests**, all passing, plus a commented example server
+- **15 automated tests** (9 unit + 6 integration), all passing, plus a commented example server
 - **README with a 5-minute quick start**
 
 Non-custodial by design: the kit never holds keys or funds. It verifies payment, then runs your tool.
