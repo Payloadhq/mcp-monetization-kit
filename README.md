@@ -62,7 +62,7 @@ Also available: [x402 + MCP Monetization Kit bundle ($119)](https://payloadtools
 
 ---
 
-**Payload** — small, sharp tools for developers.
+**Payload** — Developer infrastructure for x402, agent payments, and programmable revenue..
 Developer portal: https://payloadhq.github.io/ ·
 All products: https://payloadtools.gumroad.com/ ·
 Contact: kylers.partners@gmail.com
