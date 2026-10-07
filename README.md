@@ -2,6 +2,7 @@
 > PAYLOAD → VEYLINE (flagship) → CALLX402 (action layer) → REVRULE (separate) → developer products → free utilities.
 > This repo: **MCP Monetization Kit by Payload — per-tool-call metering for MCP servers.**
 
+<p align="center"><img src="docs/logo.png" alt="mcp-monetization-kit logo" width="200"></p>
 # MCP Monetization Kit
 
 *Charge per tool call on your MCP server. A commercial product by Payload.*
